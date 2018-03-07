@@ -1,0 +1,26 @@
+{
+  "name": "ecostack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcstack/ecostack.git"
+  },
+  "author": "Ferran Diaz, Xavier Rins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcstack/ecostack/issues"
+  },
+  "homepage": "https://github.com/upcstack/ecostack#readme",
+  "devDependencies": {
+    "eslint": "4.18.2",
+    "eslint-config-airbnb-base": "12.1.0"
+  },
+  "dependencies": {
+    "superagent": "3.8.2"
+  }
+}
